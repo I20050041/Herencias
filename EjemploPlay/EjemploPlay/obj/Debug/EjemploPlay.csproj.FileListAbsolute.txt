@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\bin\Debug\EjemploPlay.exe.config
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\bin\Debug\EjemploPlay.exe
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\bin\Debug\EjemploPlay.pdb
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\obj\Debug\EjemploPlay.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\obj\Debug\EjemploPlay.Form1.resources
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\obj\Debug\EjemploPlay.Properties.Resources.resources
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\obj\Debug\EjemploPlay.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\obj\Debug\EjemploPlay.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\obj\Debug\EjemploPlay.exe
+C:\Users\jared\source\repos\EjemploPlay\EjemploPlay\obj\Debug\EjemploPlay.pdb
